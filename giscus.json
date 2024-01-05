@@ -1,4 +1,4 @@
 {
-  "origins": ["https://docs.ghostfam.com"],
+  "origins": ["https://docs.ghostfam.com", "http://localhost:4321/"],
   "defaultCommentOrder": "newest"
 }

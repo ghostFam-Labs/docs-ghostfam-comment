@@ -1,4 +1,5 @@
 {
-  "origins": ["https://docs.ghostfam.com", "localhost"],
+  "origins": ["https://docs.ghostfam.com"],
+  "originsRegex": ["http://localhost:[0-9]+"],
   "defaultCommentOrder": "newest"
 }
